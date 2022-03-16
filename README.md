@@ -7,6 +7,7 @@ Feel free to @ me for requests or collaborations.
 
 O objetivo é compartilhar scripts desenvolvidos para um "crash course" básico de R para estudantes de graduação
 Todos os scripts deverão ter comentários em ING e PT-BR, e você pode conferir meu canal no YT para comentários em PT-BR.
-Sinta-se a vontade para falarr comigo sobre pedidos ou colaborações.
+Sinta-se a vontade para falar comigo sobre pedidos ou colaborações.
 
 YouTube Link: https://youtube.com/playlist?list=PLQUNUROJBtiUYFS34dwnxLBiojeODO70I
+
